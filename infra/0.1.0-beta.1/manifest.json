@@ -1,0 +1,60 @@
+{
+  "manifest_schema": 1,
+  "project": "infrastructure",
+  "version": "0.1.0-beta.1",
+  "released": "2026-10-31T01:22:25Z",
+  "git_commit": "87dbd04272cd13e238a6a7e29c52af0f1aec46a8",
+  "update": {
+    "type": "recommended"
+  },
+  "provides": {
+    "contract": ">=0.3.0 <0.4.0"
+  },
+  "supports": {
+    "hardware": [
+      "pi3b",
+      "pi3b+",
+      "pi4b"
+    ],
+    "os": [
+      {
+        "id": "debian",
+        "codename": "bookworm",
+        "arch": "arm64"
+      },
+      {
+        "id": "debian",
+        "codename": "trixie",
+        "arch": "arm64"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "bootstrap",
+      "kind": "asset",
+      "version": "0.1.0-beta.1",
+      "url": "https://dsdar.github.io/inventory-dist/infra/0.1.0-beta.1/bootstrap.sh",
+      "sha256": "f68e6be1cd09c7b2458eef3e616e05078890086b05022c6d058372d1ccee5774"
+    },
+    {
+      "name": "ansible-bundle",
+      "kind": "asset",
+      "version": "0.1.0-beta.1",
+      "url": "https://dsdar.github.io/inventory-dist/infra/0.1.0-beta.1/ansible-bundle.tar.gz",
+      "sha256": "a388fd2b72562e5a65a97ca5a1576debb0965260293ceea5dd4f5c102b2d4728"
+    },
+    {
+      "name": "node-agent",
+      "kind": "image",
+      "version": "0.1.0-beta.1",
+      "image": "ghcr.io/dsdar/inventory/node-agent",
+      "digest": "sha256:88545baf6ac3a0e0278738113538e4f3ecd499225be0c5d251fd3ace031fb0f7"
+    },
+    {
+      "name": "docker-engine",
+      "kind": "pinned",
+      "version": "unpinned"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "index_schema": 1,
+  "channel": "beta",
+  "generated": "2026-10-31T01:22:29Z",
+  "infrastructure": {
+    "latest": "0.1.0-beta.1",
+    "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.1.0-beta.1/manifest.json",
+    "manifest_sha256": "3a2f509872a9eadf1145d422572dc69e292234c684c4463b35d20997c8a8511f",
+    "minimum_secure": "0.1.0-beta.1",
+    "minimum_supported": "0.1.0-beta.1"
+  }
+}
