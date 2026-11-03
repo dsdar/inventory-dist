@@ -1,0 +1,39 @@
+{
+  "manifest_schema": 1,
+  "project": "application",
+  "version": "0.1.0-beta.1",
+  "released": "2026-11-03T15:14:57Z",
+  "git_commit": "8da8571fa2668bb0ac6d976f22182e0f7c2d2cbb",
+  "update": {
+    "type": "recommended"
+  },
+  "requires": {
+    "contract": ">=0.5.0 <0.6.0",
+    "infrastructure": "0.2.0-beta.1"
+  },
+  "database": {
+    "scripts": {
+      "TABLES_SYSTEM.sql": "1.1.0",
+      "TABLES_SECURITY.sql": "1.0.0",
+      "TABLE_SEED.sql": "1.1.0",
+      "SYSTEM.sql": "1.1.0",
+      "SECURITY.sql": "1.0.0"
+    }
+  },
+  "components": [
+    {
+      "name": "api",
+      "kind": "image",
+      "version": "0.1.0-beta.1",
+      "image": "ghcr.io/dsdar/inventory/api",
+      "digest": "sha256:2be0482a388b9cda3a915b5704317ceadb0af072e5f967af60645012cc2b94a7"
+    },
+    {
+      "name": "web",
+      "kind": "image",
+      "version": "0.1.0-beta.1",
+      "image": "ghcr.io/dsdar/inventory/web",
+      "digest": "sha256:3cac45f8e53c8ff0007fd34df6a7ee58a3eeee0cf637427a9e504e8fea0c27f6"
+    }
+  ]
+}
