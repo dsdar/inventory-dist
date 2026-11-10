@@ -1,0 +1,29 @@
+# One-off: creates the api, web and node-agent packages under this public
+# repository, so they are public. The Inventory repo's release workflows then
+# push the real images into them. Delete this file once they exist.
+name: seed-packages
+
+on:
+  workflow_dispatch:
+
+permissions:
+  packages: write
+
+jobs:
+  seed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push a tiny placeholder to each name
+        run: |
+          printf 'FROM scratch\nLABEL org.opencontainers.image.source=https://github.com/dsdar/inventory-dist\nLABEL org.opencontainers.image.description="Placeholder; real images are tagged by version"\n' > Dockerfile
+          echo seed > seed.txt
+          printf 'COPY seed.txt /seed.txt\n' >> Dockerfile
+          for p in api web node-agent; do
+            docker build -q -t "ghcr.io/dsdar/inventory-dist/$p:seed" .
+            docker push "ghcr.io/dsdar/inventory-dist/$p:seed"
+          done
