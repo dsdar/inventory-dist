@@ -16,14 +16,14 @@
   "os_list": [
     {
       "name": "Home Inventory (Raspberry Pi 3)",
-      "description": "Home Inventory setup image 0.1.0-beta.3. Sets itself up from a phone.",
+      "description": "Home Inventory setup image 0.1.0-beta.4. Sets itself up from a phone.",
       "icon": "https://downloads.raspberrypi.com/imager/icons/RPi_3.png",
-      "url": "https://github.com/dsdar/inventory-dist/releases/download/image-v0.1.0-beta.3/home-inventory-pi3-0.1.0-beta.3.img.xz",
+      "url": "https://github.com/dsdar/inventory-dist/releases/download/image-v0.1.0-beta.4/home-inventory-pi3-0.1.0-beta.4.img.xz",
       "extract_size": 3078619136,
-      "extract_sha256": "0ab1d630d4cfe5eaa0082839cc035549ef9f93c84625a8d2b9b6633eafe7c8b8",
-      "image_download_size": 606706252,
-      "image_download_sha256": "dd7da6d9972b08a247e24bb2cf207dd384cee2921a3c1b2b4f9a5c959ad2e908",
-      "release_date": "2026-11-09",
+      "extract_sha256": "dfbba3b618a1c1bcb2ad28ce935c6c6e737ed1cd928dd982748b7785d3cfbcac",
+      "image_download_size": 607124316,
+      "image_download_sha256": "f5a95ee71e24c4a0202d69388f16c361ee49ebb18d6eb68b1c98b17916b837de",
+      "release_date": "2026-11-10",
       "devices": [
         "pi3-64bit"
       ]
