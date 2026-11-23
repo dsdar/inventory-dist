@@ -1,7 +1,7 @@
 {
   "index_schema": 1,
   "channel": "beta",
-  "generated": "2026-11-23T14:25:29Z",
+  "generated": "2026-11-23T17:40:24Z",
   "infrastructure": {
     "latest": "0.2.0-beta.4",
     "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.2.0-beta.4/manifest.json",
@@ -10,9 +10,9 @@
     "minimum_supported": "0.1.0-beta.1"
   },
   "application": {
-    "latest": "0.1.0-beta.8",
-    "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.8/manifest.json",
-    "manifest_sha256": "7688f5f3f1316d7a7b5f4de850a6544ecfdb923d5e71a5eab358094089668b77",
+    "latest": "0.1.0-beta.9",
+    "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.9/manifest.json",
+    "manifest_sha256": "a24c9945c5eb1256c7aa769cd9897c6d5d910477ce1bcc2e82435fbef7e87153",
     "minimum_secure": "0.1.0-beta.1",
     "minimum_supported": "0.1.0-beta.1"
   }
