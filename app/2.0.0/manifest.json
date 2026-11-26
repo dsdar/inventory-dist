@@ -1,0 +1,63 @@
+{
+  "manifest_schema": 1,
+  "project": "application",
+  "version": "2.0.0",
+  "released": "2026-11-26T18:39:02Z",
+  "git_commit": "61e7ba32037e21cef78536b16a3665d6ba281e56",
+  "update": {
+    "type": "recommended"
+  },
+  "requires": {
+    "contract": ">=0.7.0 <0.9.0",
+    "infrastructure": "0.2.0-beta.7"
+  },
+  "database": {
+    "scripts": {
+      "TABLES_SYSTEM.sql": "2.0.0",
+      "TABLES_SECURITY.sql": "2.0.0",
+      "TABLES_REF.sql": "2.0.0",
+      "TABLES_MEDIA.sql": "2.0.0",
+      "TABLES_PLACE.sql": "2.0.0",
+      "TABLES_VENDOR.sql": "2.0.0",
+      "TABLES_ITEM.sql": "2.0.0",
+      "TABLES_LOG.sql": "2.0.0",
+      "TABLES_IDENTIFY.sql": "2.0.0",
+      "TABLES_AI.sql": "2.0.0",
+      "TABLES_MACHINE.sql": "2.0.0",
+      "TABLES_UPGRADE.sql": "2.0.0",
+      "TABLES_KEYS.sql": "2.0.0",
+      "TABLE_SEED.sql": "2.0.0",
+      "TABLE_MACHINE_SEED.sql": "2.0.0",
+      "SYSTEM.sql": "2.0.0",
+      "SECURITY.sql": "2.0.0",
+      "PLACE.sql": "2.0.0",
+      "MEDIA.sql": "2.0.0",
+      "IDENTIFY.sql": "2.0.0",
+      "AI.sql": "2.0.0",
+      "ITEM.sql": "2.0.0",
+      "VENDOR.sql": "2.0.0",
+      "MACHINE.sql": "2.0.0",
+      "LOG.sql": "2.0.0",
+      "EXAMPLE.sql": "2.0.0",
+      "TABLES_AUTO.sql": "2.0.0",
+      "TABLE_AUTO_SEED.sql": "2.0.0",
+      "AUTO.sql": "2.0.0"
+    }
+  },
+  "components": [
+    {
+      "name": "api",
+      "kind": "image",
+      "version": "2.0.0",
+      "image": "ghcr.io/dsdar/inventory-dist/api",
+      "digest": "sha256:2d9a97287f669b880df7192a5661f2749f8a30b4c9e147bd4f1d731891c260f7"
+    },
+    {
+      "name": "web",
+      "kind": "image",
+      "version": "2.0.0",
+      "image": "ghcr.io/dsdar/inventory-dist/web",
+      "digest": "sha256:4d4d20be6363320e5b201c73fbdab32c11ffc0e3053924a4f96cce03d2963bf9"
+    }
+  ]
+}
