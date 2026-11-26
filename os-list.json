@@ -10,22 +10,33 @@
         "description": "Raspberry Pi 3",
         "matching_type": "inclusive",
         "capabilities": []
+      },
+      {
+        "name": "Raspberry Pi 4",
+        "tags": [
+          "pi4-64bit"
+        ],
+        "icon": "https://downloads.raspberrypi.com/imager/icons/RPi_4.png",
+        "description": "Raspberry Pi 4",
+        "matching_type": "inclusive",
+        "capabilities": []
       }
     ]
   },
   "os_list": [
     {
-      "name": "Home Inventory (Raspberry Pi 3)",
-      "description": "Home Inventory setup image 0.1.0-beta.13. Sets itself up from a phone: dsdar.github.io/inventory-dist/setup.html",
-      "icon": "https://downloads.raspberrypi.com/imager/icons/RPi_3.png",
-      "url": "https://github.com/dsdar/inventory-dist/releases/download/image-v0.1.0-beta.13/home-inventory-pi3-0.1.0-beta.13.img.xz",
+      "name": "Home Inventory (Pi 3 / Pi 4)",
+      "description": "Home Inventory setup image 0.1.0-beta.14. Sets itself up from a phone: dsdar.github.io/inventory-dist/setup.html",
+      "icon": "https://downloads.raspberrypi.com/imager/icons/RPi_4.png",
+      "url": "https://github.com/dsdar/inventory-dist/releases/download/image-v0.1.0-beta.14/home-inventory-pi3-0.1.0-beta.14.img.xz",
       "extract_size": 3078619136,
-      "extract_sha256": "a1574779f5194d86f57e58b3ec6e91e1b5d5ad64dfa80cfc254508c243fc57de",
-      "image_download_size": 610738540,
-      "image_download_sha256": "882d0a4b68b48e1720c0df62a7cbe9b557cd9ddfacc26618d52d8562fe51e626",
-      "release_date": "2026-11-21",
+      "extract_sha256": "26bc7352f40e4cf47470d376ef98b403552c464a5908e76d1b4faa274be326a1",
+      "image_download_size": 612041180,
+      "image_download_sha256": "37d4eaff5fd5ad73eac6660b9ea819f2c2c5d44cf037d5c345757debe447e551",
+      "release_date": "2026-11-26",
       "devices": [
-        "pi3-64bit"
+        "pi3-64bit",
+        "pi4-64bit"
       ]
     }
   ]
