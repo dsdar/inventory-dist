@@ -1,7 +1,7 @@
 {
   "index_schema": 1,
   "channel": "beta",
-  "generated": "2026-11-26T18:40:36Z",
+  "generated": "2026-11-26T18:41:29Z",
   "infrastructure": {
     "latest": "0.2.0-beta.7",
     "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.2.0-beta.7/manifest.json",

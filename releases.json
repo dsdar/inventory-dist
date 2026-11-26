@@ -1,6 +1,6 @@
 {
   "index_schema": 1,
-  "generated": "2026-11-26T18:40:36Z",
+  "generated": "2026-11-26T18:41:29Z",
   "releases": [
     {
       "project": "application",
@@ -821,13 +821,28 @@
       "channels": [
         "beta"
       ],
-      "status": "current",
+      "status": "supported",
       "pi_models": [
         "pi3"
       ],
       "published": "2026-11-26T18:40:36Z",
       "manifest_url": "https://dsdar.github.io/inventory-dist/image/0.1.0-beta.13/kit.tar.gz",
       "manifest_sha256": "9c9618749c4ea035a38d983ec08ecaef9d750045965e02502b4db89b1de9b582"
+    },
+    {
+      "project": "image",
+      "version": "0.1.0-beta.14",
+      "channels": [
+        "beta"
+      ],
+      "status": "current",
+      "pi_models": [
+        "pi3",
+        "pi4"
+      ],
+      "published": "2026-11-26T18:41:29Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/image/0.1.0-beta.14/kit.tar.gz",
+      "manifest_sha256": "1684fda8cdc1d0f5b90ae6175e02ccf7b841cd0a5649d11b3420d3d73608fd82"
     }
   ]
 }
