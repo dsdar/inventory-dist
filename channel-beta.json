@@ -1,7 +1,7 @@
 {
   "index_schema": 1,
   "channel": "beta",
-  "generated": "2026-11-26T18:39:05Z",
+  "generated": "2026-11-26T18:40:36Z",
   "infrastructure": {
     "latest": "0.2.0-beta.7",
     "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.2.0-beta.7/manifest.json",
@@ -14,6 +14,44 @@
     "manifest_url": "https://dsdar.github.io/inventory-dist/app/2.0.0/manifest.json",
     "manifest_sha256": "154fdaf554a42ffb92a3a87528da550b383f69979940e8fb938b47b0e0b51b7f",
     "minimum_secure": "0.1.0-beta.1",
-    "minimum_supported": "0.1.0-beta.1"
+    "minimum_supported": "2.0.0"
+  },
+  "models": {
+    "pi3": {
+      "infrastructure": {
+        "latest": "0.2.0-beta.7",
+        "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.2.0-beta.7/manifest.json",
+        "manifest_sha256": "db575492038cc001a39f230be6c84edfe41109481822ab7afd68029cff7c82db"
+      },
+      "application": {
+        "latest": "2.0.0",
+        "manifest_url": "https://dsdar.github.io/inventory-dist/app/2.0.0/manifest.json",
+        "manifest_sha256": "154fdaf554a42ffb92a3a87528da550b383f69979940e8fb938b47b0e0b51b7f"
+      }
+    },
+    "pi4": {
+      "infrastructure": {
+        "latest": "0.2.0-beta.7",
+        "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.2.0-beta.7/manifest.json",
+        "manifest_sha256": "db575492038cc001a39f230be6c84edfe41109481822ab7afd68029cff7c82db"
+      },
+      "application": {
+        "latest": "2.0.0",
+        "manifest_url": "https://dsdar.github.io/inventory-dist/app/2.0.0/manifest.json",
+        "manifest_sha256": "154fdaf554a42ffb92a3a87528da550b383f69979940e8fb938b47b0e0b51b7f"
+      }
+    },
+    "pi5": {
+      "infrastructure": {
+        "latest": "0.2.0-beta.7",
+        "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.2.0-beta.7/manifest.json",
+        "manifest_sha256": "db575492038cc001a39f230be6c84edfe41109481822ab7afd68029cff7c82db"
+      },
+      "application": {
+        "latest": "2.0.0",
+        "manifest_url": "https://dsdar.github.io/inventory-dist/app/2.0.0/manifest.json",
+        "manifest_sha256": "154fdaf554a42ffb92a3a87528da550b383f69979940e8fb938b47b0e0b51b7f"
+      }
+    }
   }
 }

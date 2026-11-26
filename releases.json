@@ -1,0 +1,833 @@
+{
+  "index_schema": 1,
+  "generated": "2026-11-26T18:40:36Z",
+  "releases": [
+    {
+      "project": "application",
+      "version": "0.1.0-beta.1",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.1/manifest.json",
+      "manifest_sha256": "99960b5db9cc7ce2a82b6a5d0965642caff15f652a5268816d2faa8c5ad4bdfc",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.2",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.2/manifest.json",
+      "manifest_sha256": "b4f7233536ed1e4d434abf949abc108020705d002133bec8e094b0c0fbaf1895",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.3",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.3/manifest.json",
+      "manifest_sha256": "75a12495d3130cde50edc9b7df24d7e123206d4ae94e6114d159ff54ccb65f25",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.4",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.4/manifest.json",
+      "manifest_sha256": "bffc3045e4e955c126a6ae4bf9863d47bb3ead3ae3957a557664fd513df91299",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.5",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.5/manifest.json",
+      "manifest_sha256": "7f0b744aca01f84f73b4987635cd2f5dc998de76a90183753ac07a1350403033",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.6",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.6/manifest.json",
+      "manifest_sha256": "6fc416fa09913b14cf0219e80d36fda39016d428517030cd5ca7fc46b2eb90b2",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.7",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.7/manifest.json",
+      "manifest_sha256": "2ecfc65231ac285ea7306c541e62389a7acd3ec9ffa50dd61556cc1edaa569ad",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.8",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.8/manifest.json",
+      "manifest_sha256": "7688f5f3f1316d7a7b5f4de850a6544ecfdb923d5e71a5eab358094089668b77",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.9",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.9/manifest.json",
+      "manifest_sha256": "a24c9945c5eb1256c7aa769cd9897c6d5d910477ce1bcc2e82435fbef7e87153",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.10",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.10/manifest.json",
+      "manifest_sha256": "8cc07da37192b8f99274672a7e45d88c9e7f263097d45d507e85e16f2e0cbd9f",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.11",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.11/manifest.json",
+      "manifest_sha256": "c49ad843720ad9679d612c001e7d474ffe4bbc8702f9156deb1ab4ec1c066cf8",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.12",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.12/manifest.json",
+      "manifest_sha256": "3274dadfb0068fcb330c72f21b86de68cdf0b28bf303a8669b623c2930bd50a5",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.13",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.13/manifest.json",
+      "manifest_sha256": "93eb6c48425d5bff1d95f5580a07f0ec96571434da02f9decbbe63626173e9e7",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.14",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.14/manifest.json",
+      "manifest_sha256": "2cd6f3fa2585ad08874ee5d77146ca97b8fcf72d1b16a700130e8667101b3540",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.15",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.15/manifest.json",
+      "manifest_sha256": "705ae1e3a227a18544b4f0ce86182ef51f1dc4311fd2118119ca424a31764099",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.16",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.16/manifest.json",
+      "manifest_sha256": "cd341641a1ac54e3ebff1584f75c0b0aba40aea55f14b926bd15f6c9d299ce02",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.17",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.17/manifest.json",
+      "manifest_sha256": "c1e0ecf0fe48074eadc73bd518bc88431db85ceb1be7e54f51b310de7d8ce533",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.18",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.18/manifest.json",
+      "manifest_sha256": "16ed3d1e08f323d0e272d135be2ac3c164ee7e0233b11742d22d51b206ef7e5b",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.19",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.19/manifest.json",
+      "manifest_sha256": "f7450a1fd2c21d8e213a228bfb65e478d2962ab88b8c783d9c51c459c297a36e",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.20",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.20/manifest.json",
+      "manifest_sha256": "9b14c66d73ff56ce00c4c557e8ec7e8675172d075fb00643f35a02cf307adf0d",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.21",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.21/manifest.json",
+      "manifest_sha256": "1a4354bdd352de5ae3d488c01296104046a6f3336166940f1d921303a545dca0",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.22",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.22/manifest.json",
+      "manifest_sha256": "4eef4d44a689fecdc6a960bbbe5c439cb4b8d18be1997da390b5e77772a5d188",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.23",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.23/manifest.json",
+      "manifest_sha256": "9d2ae27a4d38bfa6011ad1edbcc594da9fea9e6cd33064e0d891b685c580ec27",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.24",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.24/manifest.json",
+      "manifest_sha256": "ca780438fdc0733c6a4d4fa80caeff24e1a51723b6a2b376fe80585a9ed5bcf6",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.25",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.25/manifest.json",
+      "manifest_sha256": "327ec4c01842c9701da4c4b86e1385ded88ed6a3d45bf06e531ce63fdfbcc625",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "0.1.0-beta.26",
+      "channels": [
+        "beta"
+      ],
+      "status": "deprecated",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/0.1.0-beta.26/manifest.json",
+      "manifest_sha256": "84b223d98103be3c59a5066be3447c506c6e76fb4f4a4a529e2b2875d72549d7",
+      "reason": "Data model 2.0: the update starts a fresh database (yours is backed up first)",
+      "until": "2027-03-01"
+    },
+    {
+      "project": "application",
+      "version": "2.0.0",
+      "channels": [
+        "stable",
+        "beta"
+      ],
+      "status": "current",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/app/2.0.0/manifest.json",
+      "manifest_sha256": "154fdaf554a42ffb92a3a87528da550b383f69979940e8fb938b47b0e0b51b7f"
+    },
+    {
+      "project": "infrastructure",
+      "version": "0.1.0-beta.1",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.1.0-beta.1/manifest.json",
+      "manifest_sha256": "3a2f509872a9eadf1145d422572dc69e292234c684c4463b35d20997c8a8511f"
+    },
+    {
+      "project": "infrastructure",
+      "version": "0.1.0-beta.2",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.1.0-beta.2/manifest.json",
+      "manifest_sha256": "b81d008fb0727e6ffe592c551e775439804d56f9a25432efdbe7771227ca98d2"
+    },
+    {
+      "project": "infrastructure",
+      "version": "0.1.0-beta.3",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.1.0-beta.3/manifest.json",
+      "manifest_sha256": "229b0eaedc9996e6213c899ff18b2a1493370fda7e16cb612b64ed29797930f5"
+    },
+    {
+      "project": "infrastructure",
+      "version": "0.2.0-beta.1",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.2.0-beta.1/manifest.json",
+      "manifest_sha256": "e27c38e97b677e04d8de458f341581f00e38d3b986c186da81bee834f53cf037"
+    },
+    {
+      "project": "infrastructure",
+      "version": "0.2.0-beta.2",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.2.0-beta.2/manifest.json",
+      "manifest_sha256": "c5c857180d05a71814cceaee17f880c272b64c702e29578de1a2304b6d3327da"
+    },
+    {
+      "project": "infrastructure",
+      "version": "0.2.0-beta.3",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.2.0-beta.3/manifest.json",
+      "manifest_sha256": "5ba745465306d0dc8eae8aca91ebe88ad01e9ad78c879b72612a2957dcee8e7c"
+    },
+    {
+      "project": "infrastructure",
+      "version": "0.2.0-beta.4",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.2.0-beta.4/manifest.json",
+      "manifest_sha256": "0072e425f28927d38ac55cf2c4fecb113dae20224a0007b503148ab6c1e541dd"
+    },
+    {
+      "project": "infrastructure",
+      "version": "0.2.0-beta.5",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.2.0-beta.5/manifest.json",
+      "manifest_sha256": "63477a09d194672c96ac197cac8597d651d060485abecb052ffc03c22ac26447"
+    },
+    {
+      "project": "infrastructure",
+      "version": "0.2.0-beta.6",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.2.0-beta.6/manifest.json",
+      "manifest_sha256": "565659686630ba40e7680a4fd3c6c64fa6427252be07a04ab7487332a4668e01"
+    },
+    {
+      "project": "infrastructure",
+      "version": "0.2.0-beta.7",
+      "channels": [
+        "beta"
+      ],
+      "status": "current",
+      "pi_models": [
+        "pi3",
+        "pi4",
+        "pi5"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/infra/0.2.0-beta.7/manifest.json",
+      "manifest_sha256": "db575492038cc001a39f230be6c84edfe41109481822ab7afd68029cff7c82db"
+    },
+    {
+      "project": "image",
+      "version": "0.1.0-beta.1",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/image/0.1.0-beta.1/kit.tar.gz",
+      "manifest_sha256": "f63eccd9d8e956585e42a2b37923bc68005069e3e12657f936e6ac1bc78ed300"
+    },
+    {
+      "project": "image",
+      "version": "0.1.0-beta.2",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/image/0.1.0-beta.2/kit.tar.gz",
+      "manifest_sha256": "48fa82fa2aea154767b59b31b8647dc6fa16cd8d1053db288168a8f5f69fb533"
+    },
+    {
+      "project": "image",
+      "version": "0.1.0-beta.3",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/image/0.1.0-beta.3/kit.tar.gz",
+      "manifest_sha256": "3b2dc6eca8cb4d223701b556b55a6002f773d7879596e2a61eefe95a9fd29a80"
+    },
+    {
+      "project": "image",
+      "version": "0.1.0-beta.4",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/image/0.1.0-beta.4/kit.tar.gz",
+      "manifest_sha256": "da35816d86c3ad1a29002aa9a1ae30dd7759d322c042a6604ca391f34ed9e27a"
+    },
+    {
+      "project": "image",
+      "version": "0.1.0-beta.5",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/image/0.1.0-beta.5/kit.tar.gz",
+      "manifest_sha256": "8c59cfe8f572275fa4a532c4e2d584c421267a8b02f33c379406ca9fa3a53e08"
+    },
+    {
+      "project": "image",
+      "version": "0.1.0-beta.6",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/image/0.1.0-beta.6/kit.tar.gz",
+      "manifest_sha256": "a26bdfd4be982fe7b53cfb82ca5f8975f98e360f839c4136f6b15591c145d897"
+    },
+    {
+      "project": "image",
+      "version": "0.1.0-beta.7",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/image/0.1.0-beta.7/kit.tar.gz",
+      "manifest_sha256": "4aecba9c1cb327f664831981caa47fba66c18bd85e18ea47a8336862d0b1304a"
+    },
+    {
+      "project": "image",
+      "version": "0.1.0-beta.8",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/image/0.1.0-beta.8/kit.tar.gz",
+      "manifest_sha256": "44c036a4ac6f9d89d972cb9dac7f86a17f987f77e7e7472e0c8c82d46c3a0413"
+    },
+    {
+      "project": "image",
+      "version": "0.1.0-beta.9",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/image/0.1.0-beta.9/kit.tar.gz",
+      "manifest_sha256": "4c356efe46f4c6b7ee133e3a837e61ad7dc9ae505e722a2ea7cdaec63f0029d2"
+    },
+    {
+      "project": "image",
+      "version": "0.1.0-beta.10",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/image/0.1.0-beta.10/kit.tar.gz",
+      "manifest_sha256": "de103f82b726443db3c34ffda34f814bc5a611ebd0c75614a2ff85765b09e918"
+    },
+    {
+      "project": "image",
+      "version": "0.1.0-beta.11",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/image/0.1.0-beta.11/kit.tar.gz",
+      "manifest_sha256": "7b4acdc48ff9361543db223472ce0f7014c1754c4257a0dd2144948b57a65022"
+    },
+    {
+      "project": "image",
+      "version": "0.1.0-beta.12",
+      "channels": [
+        "beta"
+      ],
+      "status": "supported",
+      "pi_models": [
+        "pi3"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/image/0.1.0-beta.12/kit.tar.gz",
+      "manifest_sha256": "a00b24ec115748a046f49871672f7e7e98ef00e7bdf1cebd691b56b0d7342ef6"
+    },
+    {
+      "project": "image",
+      "version": "0.1.0-beta.13",
+      "channels": [
+        "beta"
+      ],
+      "status": "current",
+      "pi_models": [
+        "pi3"
+      ],
+      "published": "2026-11-26T18:40:36Z",
+      "manifest_url": "https://dsdar.github.io/inventory-dist/image/0.1.0-beta.13/kit.tar.gz",
+      "manifest_sha256": "9c9618749c4ea035a38d983ec08ecaef9d750045965e02502b4db89b1de9b582"
+    }
+  ]
+}
